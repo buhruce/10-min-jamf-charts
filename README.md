@@ -8,9 +8,7 @@ Shout out to [Apple Admins of Seattle and the Great Northwest](https://www.meetu
 
 ## Purpose
 
-To provide data about your mac fleet that's easily consumable and easy to build. There are many ways to skin a house cat that keeps you up at night. If your first thought is _i could have done this in Python_, this project isn't for you. Hi, Frogor.
-
-I was very new sysadmin and building this introduced me to things like `git`, `curl` and `awk`.
+To provide data about your mac fleet that's easily consumable and easy to build. There are many ways to skin a house cat that keeps you up at night. If your first thought is _i could have done this in Python_, this project isn't for you. 
 
 ## How To
 
