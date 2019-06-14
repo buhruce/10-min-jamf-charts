@@ -1,7 +1,7 @@
 #!/bin/bash
 
-#Variables
-SVCACCOUNT=svc_read
+#VARIABLES TO CHANGE
+SVCACCOUNT=nameofjamfaccount
 COMPANY=acme
 SVCPASSWORD=lolplaintext
 MOJAVE=153
