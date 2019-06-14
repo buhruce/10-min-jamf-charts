@@ -1,7 +1,7 @@
-    $.get("mojave.txt", function(mojave) {
-    $.get("highsierra.txt", function(highsierra) {
-    $.get("sierra.txt", function(sierra) {
-    $.get("eol.txt", function(eol) {
+    $.get("flatfiledb/mojave.txt", function(mojave) {
+    $.get("flatfiledb/highsierra.txt", function(highsierra) {
+    $.get("flatfiledb/sierra.txt", function(sierra) {
+    $.get("flatfiledb/eol.txt", function(eol) {
 new Chart(document.getElementById("bar-chart"), {
 type: 'bar',
     data: {
