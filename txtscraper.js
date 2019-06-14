@@ -5,11 +5,11 @@
 new Chart(document.getElementById("bar-chart"), {
 type: 'bar',
     data: {
-  labels: ["Mojava", "High Sierra", "Sierra", "EoL"],
+  labels: ["Mojave", "High Sierra", "Sierra", "EoL"],
   datasets: [
     {
       backgroundColor: ["red", "blue","green","purple"],
-      data: [mojava,highsierra,sierra,eol]
+      data: [mojave,highsierra,sierra,eol]
     }
   ]
 },
